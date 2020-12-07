@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 
 [comment]: <>
 
--->
-
-
 <a href="https://github.com/farissyed">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=farissyed&amp;show_icons=true&amp;include_all_commits=true&amp;custom_title=GitHub+Stats&amp;theme=vue" data-canonical-src="https://github-readme-stats.vercel.app/api?username=farissyed&amp;show_icons=true&amp;include_all_commits=true&amp;custom_title=GitHub+Stats&amp;theme=vue" style="max-width:100%;">
 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farissyed&amp;layout=compact&amp;theme=vue" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=farissyed&amp;layout=compact&amp;theme=vue" style="max-width:100%;">
 </a>
+
+
+-->
+
